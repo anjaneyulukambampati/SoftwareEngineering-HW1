@@ -1,13 +1,6 @@
 # SoftwareEngineering-HW1
 Assignment-1
-Title          : Fermat’s last theorem near misses 
-File Name      : NearMisses.py    
-Name           : Anjaneyulu Kambampati
-Email          : anjaneyulukambampa@lewisu.edu
-Course Number  : CPSC-60500
-Section Number : 002
-Date           : 07/28/2023
-Explanation    : The program works based on computation and finds the best near miss for a provided eqution
+
 
 1.The python should be installed in the system. 
 
