@@ -1,11 +1,11 @@
 """
 Title           : Fermat’s Last Theorem Near Misses
 File Name       : NearMisses.py
-Name            :
-Email           :
-Course Number   :
-Section Number  :
-Date            : 23-08-2023
+Name            : Anjaneyulu Kambampati
+Email           : anjaneyulukambampa@lewisu.edu 
+Course Number   : CPSC-60500
+Section Number  : 002
+Date            : 07/28/2023
 Explanation     : The program works based on computation and finds the best near miss for a provided equation involving exponentiation.The user is asked to provide input for variables ‘n’ and ‘k’. Based on the given input, the program performs a searching operation for a combination of ‘x’, ‘y’ and ‘z’. The result of this operation provides the smallest relative miss based on the defined equation.
 """
 
